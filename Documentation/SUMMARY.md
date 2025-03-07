@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Détecteur de muons](README.md)
+* [CosmicSail | Détecteur de muons](README.md)
